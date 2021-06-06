@@ -1,3 +1,8 @@
+Personal fork to try stamping out some errors to offer up for re-inclusion.
+
+Original Readme below ---
+
+
 # Custom Components for Home Assistant
 
 ## `ge_kitchen`
